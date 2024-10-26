@@ -1,4 +1,3 @@
-###### Nigga bot a bot that just types nigga
 import json
 import sys
 import random
@@ -43,7 +42,7 @@ def main():
     # Niggabot token
     token = 'your token herre'
     channel_id = '1299505788749873209'
-    message = "Nigga"
+    message = "your message"
 
     # Send the message
     send_message(channel_id, message, token)
